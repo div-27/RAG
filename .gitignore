@@ -1,3 +1,6 @@
 .dist/
 .rags_env/
 .rags_env
+
+
+.env
